@@ -100,16 +100,16 @@ This allows Lambda to:
 ## 📸 Screenshots to Include (Recommended)
 
 ### 🔹 CodePipeline Successful Execution
-![CodePipeline Output](./PipeLine_Output.png)
+![CodePipeline Output](images/PipeLine_Output.png)
 
 ### 🔹 Lambda Test Execution
-![Lambda Test](./Lambda_Test.png)
+![Lambda Test](images/Lambda_Test.png)
 
 ### 🔹 IAM Role Permissions
-![IAM Role](./IAM_Role.png)
+![IAM Role](images/IAM_Role.png)
 
 ### 🔹 S3 Bucket Configuration
-![S3 Bucket](./s3.png)
+![S3 Bucket](images/s3.png)
 
 ---
 
