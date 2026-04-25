@@ -102,7 +102,7 @@ It highlights automation, scalability, and real-time deployment — key skills r
 
 **Vedant Satkar**
 📧 [vedantssatkar@gmail.com](mailto:vedantssatkar@gmail.com)
-🔗 [LinkedIn] (https://www.linkedin.com/in/vedant-satkar-731bb2298)
-💻 [GitHub] (https://github.com/VedantSatkar)
+🔗 [LinkedIn](https://www.linkedin.com/in/vedant-satkar-731bb2298)
+💻 [GitHub](https://github.com/VedantSatkar)
 
 ---
